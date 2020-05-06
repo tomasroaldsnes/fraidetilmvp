@@ -1564,7 +1564,7 @@
     call-me-maybe "^1.0.1"
     glob-to-regexp "^0.3.0"
 
-"@narative/gatsby-theme-novela@^0.*":
+"@narative/gatsby-theme-novela@^0.15.1":
   version "0.15.1"
   resolved "https://registry.yarnpkg.com/@narative/gatsby-theme-novela/-/gatsby-theme-novela-0.15.1.tgz#39d188632d7ac9b0f5a9b3e2cff94c60fe331ead"
   integrity sha512-/yqGTHGf/KzgK1W5zjcxlmUjUKr8Xe2U/UGY87r6BxpbXmaAopy9VW0ymkzeITPtTWHiklRB/7fmKWg8bcAFrw==
