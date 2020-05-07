@@ -5,7 +5,7 @@ module.exports = {
     siteUrl: `https://fraidetilmvp.com`,
     description: `En eBok om hvordan du feiler deg frem til innovasjon.`,
     hero: {
-      heading: `En eBok om f*ck-ups, observasjoner og lærdommer fra å jobbe med innovasjon i startups og enterprise.`,
+      heading: `En eBok om f*ck-ups. Verktøy og lærdommer fra å jobbe med innovasjon i startups og enterprise.`,
       maxWidth: 750,
     },
     social: [
